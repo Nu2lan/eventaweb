@@ -1,0 +1,94 @@
+{
+  "hero": {
+    "title": "Tədbir Nəqliyyatının Peşəkar İdarəetmə Platforması.",
+    "subtitle": "EVENTA — xüsusi və iri miqyaslı tədbirlər üçün real vaxtda nəqliyyat, sürücü və hərəkət nəzarəti.",
+    "cta_primary": "EVENTA Necə İşləyir",
+    "cta_secondary": "Tədbir üçün Təklif Al"
+  },
+  "nav": {
+    "about": "Haqqında",
+    "billing": "Ödəniş",
+    "contact": "Əlaqə",
+    "social_media": "Sosial mediada bizi izləyin"
+  },
+  "sections": {
+    "what_is": "EVENTA Nədir?",
+    "who_is_for": "EVENTA Kimlər Üçündür?",
+    "capabilities": "Əsas İmkanlar",
+    "billing": "Ödəniş Modeli",
+    "about": "Haqqında"
+  },
+  "what_is": {
+    "description": "EVENTA ictimai taksi tətbiqi deyil. Bu, yüksək əhəmiyyətli tədbirlər üçün xüsusi olaraq hazırlanmış qapalı, təhlükəsiz və operator tərəfindən idarə olunan sistemdir. Biz hər bir nəqliyyat vasitəsi və qonaq hərəkəti üzərində tam nəzarəti təmin edirik.",
+    "bullet_1": "Qapalı və Təhlükəsiz Ekosistem",
+    "bullet_2": "Real Vaxt Rejimində Operativ Nəzarət",
+    "bullet_3": "Yüksək Təzyiqli Tədbirlər üçün Dizayn Edilib",
+    "system_active": "Sistem Aktivdir"
+  },
+  "who_is": {
+    "vip_title": "VIP Tədbir Daşımaları",
+    "vip_desc": "Konsertlər, qala gecələri və yüksək profilli qonaq hərəkətləri.",
+    "gov_title": "Hökumət və Protokol",
+    "gov_desc": "Rəsmi nümayəndə heyətləri və sammitlər üçün təhlükəsiz daşıma.",
+    "corp_title": "Korporativ Tədbirlər",
+    "corp_desc": "Korporativ konfranslar və toplantılar üçün problemsiz logistika.",
+    "intl_title": "Beynəlxalq Sammitlər",
+    "intl_desc": "COP səviyyəli tədbirlər kimi genişmiqyaslı koordinasiya."
+  },
+  "capabilities": {
+    "tracking_title": "Real Vaxt İzləmə",
+    "tracking_desc": "Nəqliyyat və qonaq hərəkəti",
+    "isolation_title": "Təhlükəsiz İzolyasiya",
+    "isolation_desc": "Özəl tədbir mühiti",
+    "dispatch_title": "Sürücü Dispetçerliyi",
+    "dispatch_desc": "Ani təsdiqləmə və marşrutlaşdırma",
+    "control_title": "Operator Nəzarəti",
+    "control_desc": "Mərkəzləşdirilmiş idarəetmə mərkəzi",
+    "audit_title": "Audit Hesabatı",
+    "audit_desc": "Ətraflı tədbir sonrası qeydlər"
+  },
+  "billing": {
+    "philosophy": "EVENTA şəffaf, tədbir əsaslı ödəniş modeli ilə işləyir. Biz istifadəçi və ya yer başına ödəniş tələb etmirik. Bunun əvəzinə, qiymətlərimizi tədbirinizin miqyasına, müddətinə və xüsusi logistika tələblərinə uyğunlaşdırırıq.",
+    "cta": "Tədbir Qiyməti üçün Əlaqə",
+    "note": "İctimai ödəniş yoxdur. Yalnız korporativ müqavilələr."
+  },
+  "about": {
+    "mission_title": "Real Logistika üçün Hazırlanıb",
+    "mission_desc": "Biz başa düşürük ki, tədbir daşımaları sadəcə insanları daşımaq deyil—bu, dəqiqlik, təhlükəsizlik və zamanlamadır. Platformamız VIP hərəkətlərin və genişmiqyaslı sammitlərin mürəkkəbliyini idarə etmək üçün hazırlanmışdır.",
+    "origin_title": "Qlobal Standartlar, Yerli Köklər",
+    "origin_desc": "Qürurla Azərbaycanda hazırlanan EVENTA, dünyanın istənilən yerindəki tədbirlər üçün miqyaslana bilən, təhlükəsizlik və əməliyyat mükəmməlliyi üzrə beynəlxalq standartlara cavab vermək üçün dizayn edilmişdir."
+  },
+  "request": {
+    "title": "Tədbir Nəqliyyat Təklifi",
+    "subtitle": "EVENTA ilə tədbiriniz üçün VIP və təhlükəsiz daşımaları planlaşdırın.",
+    "form": {
+      "name": "Ad Soyad",
+      "company": "Şirkət / Təşkilat",
+      "email": "E-poçt Ünvanı",
+      "phone": "Əlaqə Nömrəsi",
+      "type": "Tədbir Növü",
+      "type_options": {
+        "vip": "VIP / Özəl",
+        "gov": "Hökumət / Protokol",
+        "corporate": "Korporativ",
+        "summit": "Beynəlxalq Sammit"
+      },
+      "date": "Tədbir Tarixi",
+      "description": "Tədbir Haqqında Qısa Məlumat",
+      "placeholders": {
+        "name": "Ad Soyadınızı daxil edin",
+        "company": "Şirkət adını daxil edin",
+        "email": "E-poçt ünvanını daxil edin",
+        "description": "Əlavə qeydlərinizi daxil edin"
+      },
+      "submit": "Təklif Göndər",
+      "sending": "Göndərilir...",
+      "success_title": "Təklifiniz Qəbul Edildi",
+      "success_desc": "Təşəkkür edirik. Sorğunuz qeydə alındı. Komandamız tədbir detallarını nəzərdən keçirdikdən sonra qısa müddətdə sizinlə əlaqə saxlayacaq."
+    }
+  },
+  "hero_bg": {
+    "live_traffic": "Canlı Trafik",
+    "optimized": "Optimallaşdırılmış"
+  }
+}

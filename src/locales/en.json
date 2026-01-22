@@ -1,0 +1,94 @@
+{
+  "hero": {
+    "title": "Professional Management Platform for Event Transportation.",
+    "subtitle": "EVENTA — real-time transportation, driver, and movement control for private and large-scale events.",
+    "cta_primary": "Learn How EVENTA Works",
+    "cta_secondary": "Get Event Proposal"
+  },
+  "nav": {
+    "about": "About",
+    "billing": "Billing",
+    "contact": "Contact",
+    "social_media": "Follow us on social media"
+  },
+  "sections": {
+    "what_is": "What is EVENTA?",
+    "who_is_for": "Who is EVENTA For?",
+    "capabilities": "Core Capabilities",
+    "billing": "Billing Model",
+    "about": "About"
+  },
+  "what_is": {
+    "description": "EVENTA is not a public ride-hailing app. It is a closed, secure, operator-managed system designed specifically for high-stakes events. We provide absolute control over every vehicle and guest movement.",
+    "bullet_1": "Closed & Secure Ecosystem",
+    "bullet_2": "Real-time Operational Control",
+    "bullet_3": "Designed for High-Pressure Events",
+    "system_active": "System Active"
+  },
+  "who_is": {
+    "vip_title": "VIP Event Transportation",
+    "vip_desc": "Concerts, galas, and high-profile guest movements.",
+    "gov_title": "Government & Protocol",
+    "gov_desc": "Secure transport for official delegations and summits.",
+    "corp_title": "Enterprise Events",
+    "corp_desc": "Seamless logistics for corporate conferences and retreats.",
+    "intl_title": "International Summits",
+    "intl_desc": "Large-scale coordination like COP-level events."
+  },
+  "capabilities": {
+    "tracking_title": "Real-time Tracking",
+    "tracking_desc": "Vehicle & guest movement",
+    "isolation_title": "Secure Isolation",
+    "isolation_desc": "Private event environment",
+    "dispatch_title": "Driver Dispatch",
+    "dispatch_desc": "Instant confirmation & routing",
+    "control_title": "Operator Control",
+    "control_desc": "Centralized command center",
+    "audit_title": "Audit Reporting",
+    "audit_desc": "Detailed post-event logs"
+  },
+  "billing": {
+    "philosophy": "EVENTA operates on a transparent, event-based billing model. We do not charge per user or seat. Instead, we customize our pricing based on the scale, duration, and specific requirements of your event logistics.",
+    "cta": "Contact for Event Pricing",
+    "note": "No public checkout. Enterprise agreements only."
+  },
+  "about": {
+    "mission_title": "Built for Real-World Logistics",
+    "mission_desc": "We understand that event transportation is not just about moving people—it's about precision, security, and timing. Our platform is engineered to handle the complexities of VIP movements and large-scale summits.",
+    "origin_title": "Global Standards, Local Roots",
+    "origin_desc": "Proudly built in Azerbaijan, EVENTA is designed to meet international standards for security and operational excellence, scalable for events anywhere in the world."
+  },
+  "request": {
+    "title": "Event Transportation Proposal",
+    "subtitle": "Plan VIP and secure transportation for your event with EVENTA.",
+    "form": {
+      "name": "Name Surname",
+      "company": "Company / Organization",
+      "email": "Email Address",
+      "phone": "Phone Number",
+      "type": "Event Type",
+      "type_options": {
+        "vip": "VIP / Private",
+        "gov": "Government / Protocol",
+        "corporate": "Corporate",
+        "summit": "International Summit"
+      },
+      "date": "Event Date",
+      "description": "Short Description of Event",
+      "placeholders": {
+        "name": "Enter your Name Surname",
+        "company": "Enter Company Name",
+        "email": "Enter Email Address",
+        "description": "Enter additional notes"
+      },
+      "submit": "Submit Request",
+      "sending": "Sending...",
+      "success_title": "Proposal Received",
+      "success_desc": "Thank you. Your request has been received. Our team will review the event details and contact you shortly."
+    }
+  },
+  "hero_bg": {
+    "live_traffic": "Live Traffic",
+    "optimized": "Optimized"
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "hero": {
+    "title": "Etkinlik Ulaşımının Profesyonel Yönetim Platformu.",
+    "subtitle": "EVENTA — özel ve büyük ölçekli etkinlikler için gerçek zamanlı ulaşım, sürücü ve hareket takibi.",
+    "cta_primary": "EVENTA Nasıl Çalışır",
+    "cta_secondary": "Etkinlik İçin Teklif Al"
+  },
+  "nav": {
+    "about": "Hakkında",
+    "billing": "Fiyatlandırma",
+    "contact": "İletişim",
+    "social_media": "Bizi sosyal medyada takip edin"
+  },
+  "sections": {
+    "what_is": "EVENTA Nedir?",
+    "who_is_for": "EVENTA Kimler İçindir?",
+    "capabilities": "Temel Yetenekler",
+    "billing": "Fiyatlandırma Modeli",
+    "about": "Hakkında"
+  },
+  "what_is": {
+    "description": "EVENTA halka açık bir taksi uygulaması değildir. Yüksek riskli ve önemli etkinlikler için özel olarak tasarlanmış, kapalı, güvenli ve operatör yönetimli bir sistemdir.",
+    "bullet_1": "Kapalı ve Güvenli Ekosistem",
+    "bullet_2": "Gerçek Zamanlı Operasyonel Kontrol",
+    "bullet_3": "Yüksek Baskı Altındaki Etkinlikler İçin",
+    "system_active": "Sistem Aktif"
+  },
+  "who_is": {
+    "vip_title": "VIP Etkinlik Ulaşımı",
+    "vip_desc": "Konserler, galalar ve yüksek profilli konuk hareketleri.",
+    "gov_title": "Hükümet ve Protokol",
+    "gov_desc": "Resmi heyetler ve zirveler için güvenli ulaşım.",
+    "corp_title": "Kurumsal Etkinlikler",
+    "corp_desc": "Kurumsal konferanslar ve toplantılar için sorunsuz lojistik.",
+    "intl_title": "Uluslararası Zirveler",
+    "intl_desc": "COP seviyesindeki etkinlikler gibi büyük ölçekli koordinasyon."
+  },
+  "capabilities": {
+    "tracking_title": "Gerçek Zamanlı Takip",
+    "tracking_desc": "Araç ve konuk hareketi",
+    "isolation_title": "Güvenli İzolasyon",
+    "isolation_desc": "Özel etkinlik ortamı",
+    "dispatch_title": "Sürücü Yönlendirme",
+    "dispatch_desc": "Anında onay ve rotalama",
+    "control_title": "Operatör Kontrolü",
+    "control_desc": "Merkezi komuta merkezi",
+    "audit_title": "Denetim Raporlama",
+    "audit_desc": "Detaylı etkinlik sonrası kayıtlar"
+  },
+  "billing": {
+    "philosophy": "EVENTA şeffaf, etkinlik bazlı bir faturalandırma modeliyle çalışır. Kullanıcı veya koltuk başına ücret talep etmiyoruz. Bunun yerine, fiyatlandırmamızı etkinliğinizin ölçeğine, süresine ve özel lojistik gereksinimlerine göre özelleştiriyoruz.",
+    "cta": "Etkinlik Fiyatlandırması İçin İletişim",
+    "note": "Halka açık ödeme yoktur. Sadece kurumsal anlaşmalar."
+  },
+  "about": {
+    "mission_title": "Gerçek Lojistik İçin İnşa Edildi",
+    "mission_desc": "Etkinlik taşımacılığının sadece insanları taşımak olmadığını biliyoruz—bu hassasiyet, güvenlik ve zamanlamadır.",
+    "origin_title": "Küresel Standartlar, Yerel Kökler",
+    "origin_desc": "Azerbaycan'da gururla inşa edilen EVENTA, dünya çapındaki etkinlikler için ölçeklenebilir uluslararası güvenlik standartlarını karşılamak üzere tasarlanmıştır."
+  },
+  "request": {
+    "title": "Etkinlik Ulaşım Teklifi",
+    "subtitle": "EVENTA ile etkinliğiniz için VIP ve güvenli taşımacılığı planlayın.",
+    "form": {
+      "name": "Ad Soyad",
+      "company": "Şirket / Organizasyon",
+      "email": "E-posta Adresi",
+      "phone": "İletişim Numarası",
+      "type": "Etkinlik Türü",
+      "type_options": {
+        "vip": "VIP / Özel",
+        "gov": "Hükümet / Protokol",
+        "corporate": "Kurumsal",
+        "summit": "Uluslararası Zirve"
+      },
+      "date": "Etkinlik Tarihi",
+      "description": "Etkinlik Hakkında Kısa Bilgi",
+      "placeholders": {
+        "name": "Ad Soyadınızı girin",
+        "company": "Şirket adını girin",
+        "email": "E-posta adresinizi girin",
+        "description": "Ek notlarınızı girin"
+      },
+      "submit": "Teklif Gönder",
+      "sending": "Gönderiliyor...",
+      "success_title": "Teklifiniz Alındı",
+      "success_desc": "Teşekkürler. Talebiniz alındı. Ekibimiz etkinlik detaylarını inceledikten sonra kısa sürede sizinle iletişime geçecektir."
+    }
+  },
+  "hero_bg": {
+    "live_traffic": "Canlı Trafik",
+    "optimized": "Optimize Edildi"
+  }
+}

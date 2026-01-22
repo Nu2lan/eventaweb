@@ -1,0 +1,11 @@
+# Cloudflare Pages configuration for Eventa
+name = "eventa"
+compatibility_date = "2024-01-01"
+
+# Pages-specific settings
+pages_build_output_dir = "dist"
+
+# Optional: Enable SPA routing (recommended for React apps)
+# This ensures all routes are handled by index.html
+[build]
+command = "npm run build"
